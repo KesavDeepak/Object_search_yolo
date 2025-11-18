@@ -170,8 +170,9 @@ The app expects metadata as a list of such objects (one per image). When search 
 
 ---
 ## OUTPUT
-<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/475e8abc-eac1-4c3a-8c60-64850e665448" />
 <img width="1919" height="794" alt="Screenshot 2025-11-18 092457" src="https://github.com/user-attachments/assets/43c35c76-d9a8-4ed1-b9bf-6c311b7922cb" />
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/475e8abc-eac1-4c3a-8c60-64850e665448" />
+
 
 ---
 
